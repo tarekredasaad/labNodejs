@@ -1,0 +1,22 @@
+cd Ass1
+node Log.js
+
+cd Ass2
+CreateFile.js
+node ReadingFile.js
+
+cd Ass3+Ass5+Ass6
+node Create_JsonFile.js
+node Read_JsonFileAsync.js
+node Read_JsonFilesync.js
+
+cd Ass5
+node Create_JsonFile.js
+node Read_JsonFileAsync.js
+node Read_JsonFilesync.js
+
+cd Ass6
+node WriteOnFile.js
+
+cd Ass7
+node CreateDr.js
